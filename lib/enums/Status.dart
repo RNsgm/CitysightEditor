@@ -1,0 +1,7 @@
+enum Status{
+  ACTIVE,
+  NOT_ACTIVE,
+  BLOCKED,
+  UNBLOCKED,
+  DELETED
+}
